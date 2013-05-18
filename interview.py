@@ -16,4 +16,11 @@ If he is one year old, write 'and you are 1 year old'.
 If he us zero years old, write 'and you are still a baby!'
 If he enters a negative number, say something mean. Don't tell
 him what year he was born in either.
+
+--------------------
+What is your name?: manny
+How old are you:? 16
+Your name is manny and you are 16 years old.
+You were born in 1997.
+--------------------
 '''
