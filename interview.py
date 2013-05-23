@@ -9,12 +9,12 @@ calculate his year of birth.
 
 Output the information to the console
 in this format:
-You name is (blank) and you are (blank) years old.
+Your name is (blank) and you are (blank) years old.
 You were born in (blank).
 
-If he is one year old, write 'and you are 1 year old'.
+If he is one year old, write 'and you are 1 year old!'.
 If he us zero years old, write 'and you are still a baby!'
-If he enters a negative number, say something mean. Don't tell
+If he enters a negative number, write 'and I don't speak to time travellers!'. Don't tell
 him what year he was born in either.
 
 --------------------
