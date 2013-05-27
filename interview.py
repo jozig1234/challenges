@@ -24,3 +24,4 @@ Your name is manny and you are 16 years old.
 You were born in 1997.
 --------------------
 '''
+print "hi"
