@@ -24,3 +24,27 @@ Your name is manny and you are 16 years old.
 You were born in 1997.
 --------------------
 '''
+string challenge: help with this one
+
+#Étant donné une chaîne de charactère, eg: 'Daniel' ou 'Lucas', retourn une salutation de ce format: 'Bonjour Daniel!' ou 'Boujour Lucas!'
+def bonjour(N):
+    Nom = "Bonjour" + N + "!"
+    return Nom 
+
+
+#http://repl.it/languages/PythonIgnorez le restant
+def test(got, expected):
+    if got == expected:
+        prefix = ' OK '
+    else:
+        prefix = '  X '
+    print '%s got: %s expected: %s' % (prefix, repr(got), repr(expected))
+    
+def main():
+    test(bonjour('Scout'), 'Bonjour Scout!')
+    test(bonjour('Jem'), 'Bonjour Jem!')
+    test(bonjour('Dill'), 'Bonjour Dill!')
+    test(bonjour('Atticus'), 'Bonjour Atticus!')
+
+if __name__ == '__main__':
+    main()
