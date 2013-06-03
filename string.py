@@ -5,7 +5,7 @@ Created on 2013-05-28
 @author: Emanuel
 '''
 
-#Étant donné une chaîne de charactère, eg: 'Daniel' ou 'Lucas', retourn une salutation de ce format: 'Bonjour Daniel!' ou 'Boujour Lucas!'
+#Étant donné une chaîne de charactère, eg: 'Daniel' ou 'Lucas', retourne une salutation dans le format suivant: 'Bonjour Daniel!' ou 'Boujour Lucas!'
 def bonjour(nom):
     #Votre code ici
     return #Votre réponse ici
